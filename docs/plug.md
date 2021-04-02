@@ -45,7 +45,7 @@
 ### 安装 句子杂货铺chrome 插件
 1. 在 `chrome浏览器` 地址栏输入 `chrome://extensions/` 回车访问 
 ```text
-chrome://extensions/
+chrome://extensions/ 
 ```
 
 ### 使用 句子杂货铺chrome 插件 
