@@ -26,7 +26,7 @@
 
 > 如果你有其他的需求或者功能申请，也欢迎添加下方微信
 
-<img src="/docs/_media/wx_qrcode.jpeg" width = "200" height = "260" alt="图片名称" align=center />
+<img src="./docs/_media/wx_qrcode.jpeg" width = "200" height = "260" alt="图片名称" align=center />
 
 > 最后，感谢每一位上传句子的同学，有你们，句子杂货铺会越来越精彩。鞠躬~
 

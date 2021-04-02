@@ -14,6 +14,6 @@
 - 下面是个人微信，加微信可以进群一起聊天哟~
 
 
-<img src="/docs/_media/wx_qrcode.jpeg" width = "200" height = "260" alt="图片名称" align=center />
+<img src="./docs/_media/wx_qrcode.jpeg" width = "200" height = "260" alt="图片名称" align=center />
 
 [开始使用](/plug)
