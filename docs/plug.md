@@ -35,7 +35,7 @@
 
 1. [前往 github 下载](https://github.com/natsumep/chrome-sentence-store) 
 2. <a download href="https://codeload.github.com/natsumep/chrome-sentence-store/zip/refs/heads/main"> 点击在线下载 github zip包</a>
-3. <a download href="https://codeload.github.com/natsumep/chrome-sentence-store/zip/refs/heads/main"> 本地下载 zip（推荐）</a> 
+3. <a download href="http://api.tinker.run/chrome-sentence-plug.zip"> 本地下载 zip（推荐）</a> 
 
 !> 下载 `zip` 包后需要本地解压。
 
