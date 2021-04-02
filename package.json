@@ -1,0 +1,29 @@
+{
+  "name": "sentence-docs",
+  "version": "1.0.0",
+  "description": "句子杂货铺相关文档",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start":"docsify serve --port 3333",
+    "init":"docsify init",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natsumep/sentence-store-api-docs.git"
+  },
+  "keywords": [
+    "sencence",
+    "chrome",
+    "docs"
+  ],
+  "author": "p.p",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/natsumep/sentence-store-api-docs/issues"
+  },
+  "homepage": "https://github.com/natsumep/sentence-store-api-docs#readme"
+}
