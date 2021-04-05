@@ -1,4 +1,6 @@
-
+<script>
+    console.log(document.documentElement.scrollHeight)
+</script>
 ![logo](_media/logo.svg)
 
 # 句子杂货铺 <small>1.0.0</small>
@@ -16,4 +18,4 @@
 
 <img src="./docs/_media/wx_qrcode.jpeg" width = "200" height = "260" alt="图片名称" align=center />
 
-[开始使用](/plug)
+[chrome 插件](/plug) [api文档](/api)
