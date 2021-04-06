@@ -1,6 +1,4 @@
-<script>
-    console.log(document.documentElement.scrollHeight)
-</script>
+
 ![logo](_media/logo.svg)
 
 # 句子杂货铺 <small>1.0.0</small>
